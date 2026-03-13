@@ -1,5 +1,5 @@
 
-#  Kenjitsu
+#  Stalker-API
 
 A lightweight, high-performance Node.js API built with **Fastify** for delivering detailed metadata and streaming sources for anime, movies, and TV shows.
 
@@ -36,6 +36,3 @@ Complete API reference including endpoints, request parameters, and response sch
 > This project is for **educational purposes only**.
 > Kenjitsu API is an **unofficial** service and is **not affiliated** with any third-party providers.
 > The API does **not host, store, or distribute** any media content — all data belongs to its respective owners.
-
-
-
